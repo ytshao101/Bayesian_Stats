@@ -1,0 +1,7 @@
+This folder contains code for Bayesian linear regression.
+
+Contrary to frequentist OLS approach, BLS impose a prior distribution on the parameter of interest, 
+i.e. $\beta$, and use Gibbs sampling to simulate posteriors and perform predictions.
+
+When data is large compared to prior covariance matrix, BLS $\to$ OLS.
+Otherwise, BLS is a better approach.
