@@ -1,3 +1,3 @@
 # Bayesian_Stats
 
-Repo for homework and lab reports.
+Useful tools in Bayesian inference. All adapted from course materials.
