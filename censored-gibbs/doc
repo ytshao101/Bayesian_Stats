@@ -1,0 +1,4 @@
+This folder contains Gibbs sampling with censored data. Mainly creates a latent variable and imputes missing value. 
+
+Could be used in counterfactural imputation, principal stratification (i.e., post-treatment confounding, 
+including self-selection, censoring data), etc.
